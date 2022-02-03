@@ -62,7 +62,7 @@ public class SnakeAndLadder {
         System.out.println("Welcome to Snake and Ladder Simulator Problem.");
 
         //Creating Object for Player
-        SnakeAndLadder  player1 = new SnakeAndLadder ();
+        SnakeAndLadder player1 = new SnakeAndLadder ();
 
         //Showing Player Position
         player1.showPosition();
